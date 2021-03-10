@@ -4,7 +4,7 @@ QA automated testing evaluation project using Cypress.io
 ### How do I use this repo?
 
 - Clone a copy of the `SGSnowman/cypress-eval` repo locally
-- Navigate to the `qa-cypress-eval` folder
+- Navigate to the `cypress-eval` folder
 - Run `nvm use` command
 - Run `npm i` command
 - Run `npm run cypress` command
