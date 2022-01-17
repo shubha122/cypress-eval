@@ -1,0 +1,10 @@
+{
+  "url":"https://demoqa.com/books",
+  "mainHeader":"Book Store",
+  "searchBarPlaceholder":"Type to search",
+  "searchKeyword":"le",
+  "titleName":"Designing Evolvable Web APIs with ASP.NET",
+  "bookUrl":"9781449337711",
+  "authorName":"Glenn Block et al.",
+  "loginUrl" : "https://demoqa.com/login"
+}

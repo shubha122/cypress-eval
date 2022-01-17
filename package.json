@@ -14,5 +14,9 @@
   "license": "GPL-3.0",
   "devDependencies": {
     "cypress": "^4.12.1"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/SGSnowman/cypress-eval/issues"
+  },
+  "homepage": "https://github.com/SGSnowman/cypress-eval#readme"
 }
