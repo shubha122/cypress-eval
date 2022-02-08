@@ -5,7 +5,7 @@ const backButton = '#addNewRecordButton'
 const loginButton = '#login'
 const newUserButton = '#newUser'
 
-describe("Verify user can able to search Noiseless Headphones and apply a discount filter", () => {
+describe("Verify user can able to search", () => {
     beforeEach(() => {
       cy.fixture("/user_input").as("inputs");
     });
